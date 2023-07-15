@@ -1,0 +1,26 @@
+{
+	"name": "WP development environment",
+	"service": "wordpress",
+	"remoteUser": "user",
+	"shutdownAction": "stopCompose",
+	"workspaceFolder": "/var/www/html",
+	"dockerComposeFile": "docker-compose.yaml",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"bmewburn.vscode-intelephense-client",
+				"eamodio.gitlens",
+				"EditorConfig.EditorConfig",
+				"mikestead.dotenv",
+				"onecentlin.laravel-blade",
+				"dbaeumer.vscode-eslint",
+				"bradlc.vscode-tailwindcss",
+				"ms-vscode.vscode-typescript-next",
+				"visualstudioexptteam.vscodeintellicode",
+				"visualstudioexptteam.intellicode-api-usage-examples",
+				"editorconfig.editorconfig",
+				"vue.volar"
+			]
+		}
+	}
+}
