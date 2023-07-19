@@ -1,3 +1,3 @@
-# Ambiente base de desenvolvimento WordPress
+# Plugin WooCommerce integração com PagBank
 
-O projeto atual configura um Dev Container para VSCode com a finalidade de permitir o desenvolvimento de recursos para o WordPress sem a necessidade de instalar todos os requisitos localmente.
+Integra PagBank como forma de pagamento ao WooCommerce
